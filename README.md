@@ -13,17 +13,21 @@ Current revision:
  </ul> 
   
 Problems:
-  Cell balancing is present but wasnt working in last revision
+<ul>
+ <li>  Cell balancing is present but wasnt working in last revision</li>
+</ul>
   
 
 
 Future goals:
-  Can bus logging implmentation
-  Switch to integrated MCU, either an STM or an RP
-  Fuel gauging
-  Charging control
-  Update the bms ic to a newer BQ79654
-  Add stackable funcionality
+<ul>
+ <li>  Can bus logging implmentation</li>
+ <li>  Switch to integrated MCU, either an STM or an RP </li>
+ <li>  Fuel gauging</li>
+ <li>  Charging control</li>
+ <li>  Update the bms ic to a newer BQ79654</li>
+ <li>  Add stackable funcionality</li>
+</ul>
   
   
   
