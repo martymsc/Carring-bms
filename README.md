@@ -4,6 +4,11 @@ Bms system for lithium based cells. Carring because it cares :D
 The bms is based on an arduino leonardo board from Longan Labs (https://www.longan-labs.cc/1030008.html) and a battery monitor IC from Texas Instruments called BQ76PL455A.
 
 Current revision:
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
   Battery cells voltage readout over serial
   OV and UV protection with contactor control
   Precharge circuit contorl
