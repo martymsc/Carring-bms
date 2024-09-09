@@ -5,15 +5,12 @@ The bms is based on an arduino leonardo board from Longan Labs (https://www.long
 
 Current revision:
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul> 
-  Battery cells voltage readout over serial
-  OV and UV protection with contactor control
-  Precharge circuit contorl
-  Isolation between contol MCU and battery 
-  Mcu supply is from the car, bms ic is powered by the battery 
+  <li>  Battery cells voltage readout over serial</li>
+  <li>  OV and UV protection with contactor control</li>
+  <li>  Precharge circuit contorl</li>
+  <li>  Isolation between contol MCU and battery  </li>
+  <li>  Mcu supply is from the car, bms ic is powered by the battery </li>
+ </ul> 
   
 Problems:
   Cell balancing is present but wasnt working in last revision
