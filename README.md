@@ -15,12 +15,14 @@ Current revision:
 Problems:
 <ul>
  <li>  Cell balancing is present but wasnt working in last revision</li>
+ <li>  Same for the drain current measurment</li>
 </ul>
   
 
 
 Future goals:
 <ul>
+ <li>  Battery drain current measurment </li>
  <li>  Can bus logging implmentation</li>
  <li>  Switch to integrated MCU, either an STM or an RP </li>
  <li>  Fuel gauging</li>
